@@ -7,7 +7,7 @@ Menambah tabel dengan perintah CRUD di terminal.
 
 Tabel yang saya tambahkan adalah tabel formpromo dengan kolom Nama promo, Deskripsi promo, Diskon, Tombol, Foto. Juga menambahkan menu untuk mengakses tabel promo ini pada sidebar admin.
 
-![Gambar CRUD](/public/images/crud1.png)
+![Gambar CRUD](/public/images/crud 1.png)
 
 ## 2. Buatlah sebuah view untuk melakukan analisis data yang relevan dengan topik final project anda, simpan queryview tersebut kedalam file queryUAS.sql(20poin)
 
